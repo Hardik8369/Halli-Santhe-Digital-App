@@ -1,0 +1,22 @@
+# Local properties (contains API keys - never commit!)
+local.properties
+
+# Android generated files
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.jks
+*.keystore
+
+# Google services (contains Firebase config)
+# google-services.json  ← keep this commented, Firebase needs it
+
+# Kotlin
+*.class
+*.log

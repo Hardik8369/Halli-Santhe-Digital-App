@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791039394380",
+    "project_id": "hallisanthedigital-43650",
+    "storage_bucket": "hallisanthedigital-43650.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791039394380:android:929ec4f8589a9c2b7eeae9",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.hallisanthedigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791039394380-o8ss49bplmkou40vrto69bqvlil6bsoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrPh0FGvtVXkpLN5A1TEPCq-XZyTO4Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791039394380-o8ss49bplmkou40vrto69bqvlil6bsoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

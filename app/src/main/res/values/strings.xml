@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Halli-Santhe Digital</string>
+    <string name="tagline">Your Local Market, Now Digital!</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price (₹)</string>
+    <string name="product_category">Category</string>
+    <string name="product_description">Description</string>
+    <string name="generate_description">✨ Generate Description with AI</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="save_product">Save Product</string>
+    <string name="contact_seller">📞 Check Stock</string>
+    <string name="search_hint">Search products...</string>
+    <string name="empty_state_title">No Products Yet!</string>
+    <string name="empty_state_subtitle">Be the first artisan to add your product</string>
+    <string name="category_all">All</string>
+    <string name="category_food">Food</string>
+    <string name="category_craft">Craft</string>
+    <string name="category_textile">Textile</string>
+    <string name="category_other">Other</string>
+</resources>
